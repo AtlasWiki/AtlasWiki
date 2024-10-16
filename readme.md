@@ -34,10 +34,9 @@ I'm a developer working on browser extensions, security tools, and open-source p
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats and 🏆 Languages Used
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtlasWiki&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasWiki&theme=radical&layout=compact" alt="Top Languages" width="355" />
 
-## 🏆 Languages Used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasWiki&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
