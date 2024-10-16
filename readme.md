@@ -1,4 +1,4 @@
-# Hi, I'm AtlasWiki 👋
+# Hi, I'm mrunoriginal/AtlasWiki 👋
 
 I'm a developer working on browser extensions, security tools, and open-source projects. I enjoy building tools and exploring web app security, programming, and DevOps.
 
