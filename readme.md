@@ -3,9 +3,8 @@
 I'm a developer working on browser extensions, security tools, and open-source projects. I enjoy building tools and exploring web app security, programming, and DevOps.
 
 ## Top Projects
-[![Endpointer](https://img.shields.io/badge/Endpointer-8A2BE2?style=for-the-badge&logo=github&logoColor=radical)](https://github.com/AtlasWiki/EndPointer)
-[![kaiser-webhook](https://img.shields.io/badge/kaiserwebhook-8A2BE2?style=for-the-badge&logo=github&logoColor=radical)](https://github.com/AtlasWiki/kaiser-webhook)
-[![Meowpi](https://img.shields.io/badge/Meowpi-8A2BE2?style=for-the-badge&logo=github&logoColor=radical)](https://github.com/AtlasWiki/meowpi)
+[![EndPointer card](https://github-readme-stats.vercel.app/api/pin/?username=AtlasWiki&repo=EndPointer&theme=radical)](https://github.com/atlaswiki/endpointer)
+[![kaiser-webhook card](https://github-readme-stats.vercel.app/api/pin/?username=AtlasWiki&repo=kaiser-webhook&theme=radical)](https://github.com/AtlasWiki/kaiser-webhook)
 
 ## 🛠️ Technologies & Tools
 
