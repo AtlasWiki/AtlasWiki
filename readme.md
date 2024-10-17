@@ -38,5 +38,3 @@ I'm a developer working on browser extensions, security tools, and open-source p
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtlasWiki&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasWiki&theme=radical&layout=compact" alt="Top Languages" width="355" />
 
-
- h
