@@ -37,4 +37,8 @@ I'm a developer working on browser extensions, security tools, and open-source p
 ## 📊 GitHub Stats and 🏆 Languages Used
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtlasWiki&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtlasWiki&theme=radical&layout=compact" alt="Top Languages" width="355" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtlasWiki&theme=radical" alt="GitHub Streak" width="825"/>
 
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-w-76ba78202/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://atlaswiki.github.io/)
