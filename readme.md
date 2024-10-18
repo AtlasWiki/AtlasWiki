@@ -3,8 +3,9 @@
 I'm a developer working on browser extensions, security tools, and open-source projects. I enjoy building tools and exploring web app security, programming, and DevOps.
 
 ## Top Projects
-[![EndPointer card](https://github-readme-stats.vercel.app/api/pin/?username=AtlasWiki&repo=EndPointer&theme=radical)](https://github.com/atlaswiki/endpointer)
-[![kaiser-webhook card](https://github-readme-stats.vercel.app/api/pin/?username=AtlasWiki&repo=kaiser-webhook&theme=radical)](https://github.com/AtlasWiki/kaiser-webhook)
+[![EndPointer card](https://github-readme-stats.vercel.app/api/pin/?username=AtlasWiki&repo=EndPointer&theme=radical&cache_seconds=1800
+)](https://github.com/atlaswiki/endpointer)
+[![kaiser-webhook card](https://github-readme-stats.vercel.app/api/pin/?username=AtlasWiki&repo=kaiser-webhook&theme=radical&cache_seconds=1800)](https://github.com/AtlasWiki/kaiser-webhook)
 
 ## 🛠️ Technologies & Tools
 
